@@ -6,8 +6,8 @@ modernjs.dev官网移动端仿写
 # PC端
 # ![image](https://github.com/sjtuLLWWTT/ModernJsIntro/blob/main/IMGS/pc%E7%AB%AF.png)
 # Ipad端
-# ![image](https://github.com/sjtuLLWWTT/ModernJsIntro/edit/main/IMGS/ipad%E7%AB%AF.png)
+# ![image](https://github.com/sjtuLLWWTT/ModernJsIntro/blob/main/IMGS/ipad%E7%AB%AF.png)
 
 # Iphone端
-# ![image](https://github.com/sjtuLLWWTT/ModernJsIntro/edit/main/IMGS/iphone%E7%AB%AF.png)
+# ![image](https://github.com/sjtuLLWWTT/ModernJsIntro/blob/main/IMGS/iphone%E7%AB%AF.png)
 
