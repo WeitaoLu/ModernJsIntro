@@ -4,10 +4,10 @@ modernjs.dev官网移动端仿写
 # 下载后运行
 
 # PC端
-# ![image](https://github.com/sjtuLLWWTT/ModernJsIntro/edit/main/IMGS/pc端.png)
+# ![image](https://github.com/sjtuLLWWTT/ModernJsIntro/blob/main/IMGS/pc%E7%AB%AF.png)
 # Ipad端
-# ![image](https://github.com/sjtuLLWWTT/ModernJsIntro/edit/main/IMGS/ipad端.png)
+# ![image](https://github.com/sjtuLLWWTT/ModernJsIntro/edit/main/IMGS/ipad%E7%AB%AF.png)
 
 # Iphone端
-# ![image](https://github.com/sjtuLLWWTT/ModernJsIntro/edit/main/IMGS/iphone端.png)
+# ![image](https://github.com/sjtuLLWWTT/ModernJsIntro/edit/main/IMGS/iphone%E7%AB%AF.png)
 
